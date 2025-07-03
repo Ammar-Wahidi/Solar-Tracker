@@ -89,25 +89,25 @@ Developed as a part of the **CSE 271s - System Dynamics & Control Components** c
 
 ### 📷 Block and Circuit Diagrams
 
-![UART Block Diagram](Pictures/Construction.png)
+- Block Diagram
+![Block Diagram](Pics_and_Video/Block_Diagram.png)
 
-![Block Diagram](Pics-and-Video/Block-Diagram.png)
+- Electrical Circuit
+![Electrical Circuit](Pics_and_Video/Electrical_Circuit.PNG)
 
-![Block Diagram](Pics and Video/Block Diagram.png)
-  
-![Electrical Circuit](Pics and Video/Electrical_Circuit.PNG)
-  
-![Full Circuit](Pics and Video/Full_Circuit.PNG)
+- Full Circuit
+![Full Circuit](Pics_and_Video/Full_Circuit.PNG)
 
 ### ⚙️ Mechanical Modeling
 
-- ![Mechanical Modeling](./Pics and Video/Mechanical_Modeling.PNG)
-- 🎥 [Mechanical Demo Video](./Pics and Video/MechanicalDemo.mp4)
-- 🎥 [Mechanical Demo 2](./Pics and Video/Mechanical_Demo 2.avi)
+- Mechanical Modeling
+![Mechanical Modeling](./Pics_and_Video/Mechanical_Modeling.PNG)
 
-### 📈 Motor Setup
+- 🎥 [Mechanical Demo Video](./Pics_and_Video/Mechanical_Modeling.mp4)
 
-- ![Motor Image](./Pics and Video/fiqure_Motor.jpg)
+### 📈 Motor
+
+![Motor Image](Pics_and_Video/fiqure_Motor.jpg)
 
 ### 📊 Observations
 
