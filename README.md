@@ -87,6 +87,35 @@ Developed as a part of the **CSE 271s - System Dynamics & Control Components** c
 
 ## Testing and Results
 
+### 📷 Block and Circuit Diagrams
+
+![UART Block Diagram](Pictures/Construction.png)
+
+![Block Diagram](Pics-and-Video/Block-Diagram.png)
+
+![Block Diagram](Pics and Video/Block Diagram.png)
+  
+![Electrical Circuit](Pics and Video/Electrical_Circuit.PNG)
+  
+![Full Circuit](Pics and Video/Full_Circuit.PNG)
+
+### ⚙️ Mechanical Modeling
+
+- ![Mechanical Modeling](./Pics and Video/Mechanical_Modeling.PNG)
+- 🎥 [Mechanical Demo Video](./Pics and Video/MechanicalDemo.mp4)
+- 🎥 [Mechanical Demo 2](./Pics and Video/Mechanical_Demo 2.avi)
+
+### 📈 Motor Setup
+
+- ![Motor Image](./Pics and Video/fiqure_Motor.jpg)
+
+### 📊 Observations
+
+- The system successfully tracked the light source as it moved.
+- The PWM duty cycle responded dynamically to LDR voltage differences.
+- The motor rotated smoothly under both variable and constant speed configurations.
+- No significant overshoot or oscillation was observed in mechanical simulations.
+  
 - Oscilloscope data confirms smooth voltage transitions across:
   - LDR divider output
   - Differential amplifier
