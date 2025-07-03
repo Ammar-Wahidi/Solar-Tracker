@@ -2,7 +2,7 @@
 
 This project implements a **single-axis solar tracking system** to maximize solar energy collection by continuously aligning a photovoltaic (PV) panel with the direction of sunlight. By minimizing the angle of incidence and reducing the cosine error, the system improves the panel's efficiency and overall energy yield.
 
-Developed as a part of the **CSE 271s - System Dynamics & Control Components** course (Fall 2024), this project addresses real-world challenges, particularly in regions with limited access to energy, like Gaza, by offering a cost-effective and autonomous solar energy solution.
+Developed as a part of the **CSE 271s - System Dynamics & Control Components** course (Fall 2024), this project addresses real-world challenges, particularly in regions with limited access to energy, by offering a cost-effective and autonomous solar energy solution.
 
 ## Table of Contents
 
